@@ -4,3 +4,14 @@ Outliers Detection
 Z-Score
 https://www.geeksforgeeks.org/z-score-for-outlier-detection-python/
 
+
+PACOTES OTIMIZAÇÃO
+Particle Swarm Optimization
+https://pyswarms.readthedocs.io/en/latest/
+
+Otimização Multi Objetivo
+jMetal
+https://github.com/jMetal/jMetalPy
+
+Deap
+https://deap.readthedocs.io/en/master/
